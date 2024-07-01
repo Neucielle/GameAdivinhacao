@@ -47,10 +47,10 @@
 
 
 # IMAGENS
-![Opera Instantâneo_2024-07-01_155643_127 0 0 1](https://github.com/Neucielle/GameAdivinhacao/assets/116307577/d8b226b3-2b8a-473d-9cda-123e2241392d)
-![Opera Instantâneo_2024-07-01_155659_127 0 0 1](https://github.com/Neucielle/GameAdivinhacao/assets/116307577/13fc37f4-34cf-4d42-8b0d-70c6b4334e5d)
-![Opera Instantâneo_2024-07-01_155715_127 0 0 1](https://github.com/Neucielle/GameAdivinhacao/assets/116307577/304b6ce4-84ae-4064-ac40-82feee369848)
 
+![Opera Instantâneo_2024-07-01_155643_127 0 0 1](https://github.com/Neucielle/GameAdivinhacao/assets/116307577/8922af35-0c5e-4192-a9db-4e23a827e8ab)
+![Opera Instantâneo_2024-07-01_155659_127 0 0 1](https://github.com/Neucielle/GameAdivinhacao/assets/116307577/d6de9adb-2465-4efe-99e6-897c6e1fe774)
+![Opera Instantâneo_2024-07-01_155715_127 0 0 1](https://github.com/Neucielle/GameAdivinhacao/assets/116307577/e5000f0d-2cb2-4aff-8927-5503fec949ca)
 
 
 
